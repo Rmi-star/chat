@@ -1,3 +1,3 @@
 # chat
 
-InteliJ & Socket
+intellij & Socket
